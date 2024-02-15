@@ -1,1 +1,2 @@
-# data_project_01
+This 1st Data Engineering Project will be about a topic from the Stock Market (which I am personally interested in)
+More info soon...
